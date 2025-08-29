@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuldeep Teller Shops</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f8f8f8; }
+        header { background-color: #007BFF; color: white; padding: 10px; text-align: center; }
+        section { background-color: white; margin-top: 20px; padding: 20px; border-radius: 8px; }
+        h1, h2 { margin-bottom: 10px; }
+        p { line-height: 1.6; }
+        footer { text-align: center; margin-top: 30px; font-size: 0.9em; color: #555; }
+        .contact { font-size: 1.2em; color: #007BFF; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kuldeep Teller Shops</h1>
+    </header>
+
+    <section>
+        <h2>हमारी सेवाएं</h2>
+        <p>हम दर्जी की विभिन्न सेवाएं प्रदान करते हैं जैसे मापा लेना, सिलाई, फिटिंग, और पोशाक में बदलाव।</p>
+    </section>
+
+    <section>
+        <h2>संपर्क करें</h2>
+        <p class="contact">फोन नंबर: 8094512767</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Kuldeep Teller Shops. सर्वाधिकार सुरक्षित।</p>
+    </footer>
+</body>
+</html>
